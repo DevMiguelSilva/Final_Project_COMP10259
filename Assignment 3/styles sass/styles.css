@@ -1,0 +1,20 @@
+.labelConf {
+  color: #b1be25;
+}
+
+.labelConf:hover {
+  color: white;
+}
+
+button {
+  background-color: rgb(123, 36, 28);
+}
+
+button::after {
+  content: "More Details";
+}
+
+form {
+  border-style: dashed;
+  border-color: white;
+}/*# sourceMappingURL=styles.css.map */
